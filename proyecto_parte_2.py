@@ -1,4 +1,4 @@
-#La voutique se llama "MUNDO BELLO" y es olo de esmaltes 
+#La boutique se llama "MUNDO BELLO" y es solo de esmaltes 
 usuarios={}
 contraseña_correcta="Boutique1928"
 while True:
